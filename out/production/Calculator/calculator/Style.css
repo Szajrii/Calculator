@@ -1,0 +1,28 @@
+.button {
+    -fx-font-size: 25px;
+    -fx-pref-width: 75px;
+    -fx-pref-height: 75px;
+}
+
+.button:hover {
+    -fx-background-color: #526483;
+    -fx-text-fill: #ff6c56;
+}
+
+.text-field {
+    -fx-pref-height: 50px;
+    -fx-background-color: aqua;
+    -fx-font-size: 35px;
+    -fx-text-fill: red !important;
+    -fx-font-weight: bold;
+}
+
+.label {
+    -fx-padding: 10px 10px;
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+
+#background {
+    -fx-background-color: #d9ffe8;
+}
